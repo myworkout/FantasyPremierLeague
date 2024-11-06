@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Target 'FantasyPremierLeague' in project 'FantasyPremierLeague'
+➜ Explicit dependency on target 'AsyncAlgorithms' in project 'AsyncAlgorithms'
+➜ Explicit dependency on target 'CollectionConcurrencyKit' in project 'CollectionConcurrencyKit'
+Target 'CollectionConcurrencyKit' in project 'CollectionConcurrencyKit'
+➜ Explicit dependency on target 'CollectionConcurrencyKit' in project 'CollectionConcurrencyKit'
+Target 'CollectionConcurrencyKit' in project 'CollectionConcurrencyKit' (no dependencies)
+Target 'AsyncAlgorithms' in project 'AsyncAlgorithms'
+➜ Explicit dependency on target 'AsyncAlgorithms' in project 'AsyncAlgorithms'
+Target 'AsyncAlgorithms' in project 'AsyncAlgorithms' (no dependencies)

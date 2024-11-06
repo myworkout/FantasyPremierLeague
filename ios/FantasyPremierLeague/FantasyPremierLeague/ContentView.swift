@@ -1,6 +1,13 @@
 import SwiftUI
+import FantasyPremierLeagueKit
 
 struct ContentView: View {
+    var viewModelStoreOwner: SharedViewModelStoreOwner<PlayerListViewModel>
+
+    init(viewModelStoreOwner: SharedViewModelStoreOwner<PlayerListViewModel> = SharedViewModelStoreOwner<PlayerListViewModel>()) {
+        self.viewModelStoreOwner = viewModelStoreOwner
+    }
+
     var body: some View {
         TabView {
             PlayerListView()
@@ -12,14 +19,3 @@ struct ContentView: View {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-

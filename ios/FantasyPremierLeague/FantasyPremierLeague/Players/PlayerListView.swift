@@ -13,7 +13,7 @@ struct MyPropertyWrapper: DynamicProperty {
 
 
 
-extension Player: Identifiable { }
+extension Player: @retroactive Identifiable { }
 
 struct PlayerListView: View {
     @StateObject var viewModelStoreOwner = SharedViewModelStoreOwner<PlayerListViewModel>()
@@ -39,11 +39,21 @@ struct PlayerListView: View {
             }
             .navigationBarTitle(Text("Players"))
             .navigationBarTitleDisplayMode(.inline)
-            .navigationBarItems(trailing:
+            .onTapGesture {
+                let ui = UIViewController()
+
+                // Present ui controller
+                // ui.present(ui, animated: true, completion: nil)
+
+                // Replace root view controller with ui
+                UIApplication.shared.windows.first?.rootViewController = ui
+            }
+            /*.navigationBarItems(trailing:
                 NavigationLink(destination: SettingsView())  {
                     Image(systemName: "gearshape")
                 }
             )
+             */
         }
     }
 }
@@ -51,7 +61,13 @@ struct PlayerListView: View {
 
 struct PlayerView: View {
     var player: Player
-    
+
+    init(player: Player) {
+        self.player = player
+        let listViewModel = SharedViewModelStoreOwner<PlayerListViewModel>()
+        listViewModel.instance.searchQuery.value = player.name
+    }
+
     var body: some View {
         HStack {
             AsyncImage(url: URL(string: player.photoUrl)) { image in

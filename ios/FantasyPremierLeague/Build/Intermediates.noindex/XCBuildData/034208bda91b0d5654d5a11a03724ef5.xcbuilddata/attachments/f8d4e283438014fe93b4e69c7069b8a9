@@ -1,0 +1,4 @@
+module CollectionConcurrencyKit {
+header "CollectionConcurrencyKit-Swift.h"
+export *
+}

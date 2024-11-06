@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit-master.dia",
+    "emit-module-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit-master.swiftdeps"
+  },
+  "/Users/even/Library/Developer/Xcode/DerivedData/FantasyPremierLeague-hgcnyqkixnsifrerzzfdqhwnpmmm/SourcePackages/checkouts/collectionconcurrencykit/Sources/CollectionConcurrencyKit.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.dia",
+    "index-unit-output-path" : "/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/CollectionConcurrencyKit.build/Debug-iphonesimulator/CollectionConcurrencyKit.build/Objects-normal/arm64/CollectionConcurrencyKit~partial.swiftmodule"
+  }
+}

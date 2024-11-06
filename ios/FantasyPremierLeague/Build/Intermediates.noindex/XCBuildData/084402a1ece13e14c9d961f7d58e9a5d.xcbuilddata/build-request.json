@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "af33763662c7cbfba553353049de0ea82ed63fcfda4bf251cb24f3bf96c1060f"
+    }
+  ],
+  "containerPath" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Products",
+      "derivedDataPath" : "/Users/even/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/even/Library/Developer/Xcode/DerivedData/FantasyPremierLeague-hgcnyqkixnsifrerzzfdqhwnpmmm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/even/Library/Developer/Xcode/DerivedData/FantasyPremierLeague-hgcnyqkixnsifrerzzfdqhwnpmmm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "71C8A18A-42C6-4A38-AC71-65B43FAD8341",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

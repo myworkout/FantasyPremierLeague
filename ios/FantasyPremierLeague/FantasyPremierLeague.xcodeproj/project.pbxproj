@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -36,7 +36,12 @@
 		1A45B23E25CB3C9C00A8C613 /* FixtureListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixtureListView.swift; sourceTree = "<group>"; };
 		1AA7EE3D25D809D000B4DECB /* FixtureDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixtureDetailView.swift; sourceTree = "<group>"; };
 		1AD9A1242AA355F500B14FE3 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		302421CC2CDBB9C200AE7D0F /* FantasyPremierLeague.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = FantasyPremierLeague.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		30241F0F2CDBB9AB00AE7D0F /* New Folder */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); name = "New Folder"; path = ../..; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		1A0F7ADB25C5C96F00EB34CF /* Frameworks */ = {
@@ -54,6 +59,7 @@
 		1A0F7AD525C5C96F00EB34CF = {
 			isa = PBXGroup;
 			children = (
+				30241F0F2CDBB9AB00AE7D0F /* New Folder */,
 				1A0F7AE025C5C96F00EB34CF /* FantasyPremierLeague */,
 				1A0F7ADF25C5C96F00EB34CF /* Products */,
 			);
@@ -118,6 +124,11 @@
 			path = Fixtures;
 			sourceTree = "<group>";
 		};
+		302421DC2CDBB9C200AE7D0F /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -172,6 +183,12 @@
 			);
 			productRefGroup = 1A0F7ADF25C5C96F00EB34CF /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 302421DC2CDBB9C200AE7D0F /* Products */;
+					ProjectRef = 302421CC2CDBB9C200AE7D0F /* FantasyPremierLeague.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				1A0F7ADD25C5C96F00EB34CF /* FantasyPremierLeague */,

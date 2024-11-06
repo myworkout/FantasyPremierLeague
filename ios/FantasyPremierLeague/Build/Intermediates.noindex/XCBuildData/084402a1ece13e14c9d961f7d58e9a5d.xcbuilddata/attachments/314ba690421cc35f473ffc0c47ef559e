@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeague-master.dia",
+    "emit-module-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeague-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeague-master-emit-module.dia",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeague-master.swiftdeps"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/ContentView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/FantasyPremierLeagueApp.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FantasyPremierLeagueApp~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/Fixtures/FixtureDetailView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureDetailView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/Fixtures/FixtureListView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/FixtureListView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/Leagues/LeagueListView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/LeagueListView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/Players/PlayerDetailsView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerDetailsView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/Players/PlayerListView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/PlayerListView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/SettingsView.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/FantasyPremierLeague/SharedViewModelStoreOwner.swift" : {
+    "const-values" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.swiftconstvalues",
+    "dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.d",
+    "diagnostics" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.dia",
+    "index-unit-output-path" : "/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.o",
+    "llvm-bc" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.bc",
+    "object" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.o",
+    "swift-dependencies" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner.swiftdeps",
+    "swiftmodule" : "/Users/even/myworkout/test/FantasyPremierLeague/ios/FantasyPremierLeague/Build/Intermediates.noindex/FantasyPremierLeague.build/Debug-iphonesimulator/FantasyPremierLeague.build/Objects-normal/arm64/SharedViewModelStoreOwner~partial.swiftmodule"
+  }
+}
